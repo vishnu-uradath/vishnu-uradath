@@ -1,6 +1,6 @@
 # Hi, I'm Vishnu Uradath
 
-Electronics and Communication Systems Engineer with a strong interest in embedded systems, IoT, automation, smart energy systems, and intelligent electronic solutions.
+Electronics and Communication Engineer with a strong interest in embedded systems, IoT, automation, smart energy systems, and intelligent electronic solutions.
 
 I enjoy developing practical engineering projects that combine microcontrollers, sensors, communication technologies, and software to solve real-world problems. I am currently focused on strengthening my technical skills through hands-on projects and exploring emerging technologies in electronics and intelligent systems.
 
